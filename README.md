@@ -5,7 +5,7 @@ Leveraging ML to predict whether **viewer engagement** is above **threshold (30%
 
 - Available data split into **training** and **validation sets** to **tune hyperparameters** and run metrics on **model performance** before use on test data set via Coursera autograder
 - **Grid-search cross validation** performed to **optimize hyperparameters** (**maximum depth, maximum features, number of trees**)for ensemble model - **Random Forest Classifier** (**Scikit-learn**)
-- Model output is in form of predicted probability of engagement
+- Model output is in form of predicted **probability of engagement**
 - Model performance on unseen test data in autograder achieved **ROC-curve AUC** > **0.90**
 
 
