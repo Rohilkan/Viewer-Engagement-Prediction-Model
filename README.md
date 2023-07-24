@@ -44,4 +44,3 @@ Features:
     speaker_speed - The average speaking rate in words per minute of the presenter in the video.
     
     silent_period_rate - The fraction of time in the lecture video that is silence (no speaking).
-gi
